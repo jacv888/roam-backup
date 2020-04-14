@@ -48,6 +48,8 @@ Congrats! 🎉 You've successfully automated the backup of your brain 🧠. Now 
 
 _NOTE: This is still fairly WIP, and this is my first project using Puppeteer, so it may be a little buggy._
 
+DONE
+
 ## Development
 
 Running this project locally should be possible using `.env` - copy `.env.example` to `.env` and fill it in with your own authentication keys. 
